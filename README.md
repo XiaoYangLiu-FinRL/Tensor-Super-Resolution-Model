@@ -7,4 +7,5 @@ This Pic is the low-granularity Seismic Data<br>
 ![low-granularity](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/L.png?raw=true)<br>
 This Pic is the high-granularity Seismic Data<br>
 ![high-granularity](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/H.png?raw=true)<br>
+This is our algorithm to generating high-granularity seismic dara for single trace.<br>
 ![SR Error](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/SrErr.png?raw=true)<br>
