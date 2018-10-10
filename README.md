@@ -1,8 +1,13 @@
 # Tensor-Super-Resolution-Model
+====================================
 This repository is the implement of the following paper:<br>
->Tensor Sparse Coding for Generating High-granularity 3D Seismic Data
-The training model for low- and high-granunarity dictionaries pair.<br>
-![model](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/0.png?raw=true)
+>Tensor Sparse Coding for Generating High-granularity 3D Seismic Data<br>
+In this paper, we propose a seismic trace interpolation method based on tensor sparse coding for 3D seismic data, that training a high-granularity dictionary and a low-granularity dictionary.<br>
+
+The training model for low- and high-granunarity dictionaries pair show in the figure.<br>
+![model](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/0.png?raw=true)<br>
+
+
 This Pic is the Original Seismic Data<br>
 ![Original Seismic](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/Ori.png?raw=true)<br>
 This Pic is the low-granularity Seismic Data<br>
