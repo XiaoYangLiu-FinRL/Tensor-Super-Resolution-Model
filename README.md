@@ -1,5 +1,5 @@
 # Tensor-Super-Resolution-Model
-This file is the Tensor Super-Resolution for the seismic data interpolation.
+This repository is the implement of the following paper:<br>
 The training model for low- and high-granunarity dictionaries pair.<br>
 ![model](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/0.png?raw=true)
 This Pic is the Original Seismic Data<br>
