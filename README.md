@@ -1,4 +1,4 @@
-#Tensor-Super-Resolution-Model
+# Tensor-Super-Resolution-Model
 This repository is the implement of the following paper:<br>
 >Tensor Sparse Coding for Generating High-granularity 3D Seismic Data
 
