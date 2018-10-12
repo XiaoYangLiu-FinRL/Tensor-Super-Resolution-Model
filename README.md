@@ -19,4 +19,8 @@ This figure is the high-granularity Seismic Data<br>
 ![high-granularity](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/H.png?raw=true)<br>
 This is our algorithm to generating high-granularity seismic dara for single trace.<br>
 ![SR Error](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/SrErr.png?raw=true)<br>
+The following fig is the result of F-x interpolation method.Which is implement of the papaer:
+>Spitz S. Seismic trace interpolation in the F-X domain[J]. Geophysics, 2012, 56(6):785.
+
 ![Fx interpolation](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/Fx.png?raw=true)<br>
+![Fx error](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/FxErr.png?raw=true)<br>
