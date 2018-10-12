@@ -12,7 +12,7 @@ run `D_Training.m` in `SR` file for training the dictionaries pairs, get the low
 ## Evaluation
 run `Demo_seismic_SR.m` for generating high-granularity seismic data.
 This figure is the Original Seismic Data<br>
-![Original Seismic](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/Ori.png?raw=true)<br>
+![Original Seismic](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/O.png?raw=true)<br>
 This figure is the low-granularity Seismic Data<br>
 ![low-granularity](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/L.png?raw=true)<br>
 This figure is the high-granularity Seismic Data<br>
