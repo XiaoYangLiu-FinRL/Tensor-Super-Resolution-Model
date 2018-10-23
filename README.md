@@ -23,4 +23,3 @@ This is our algorithm to generating high-granularity seismic dara for single tra
 The following fig is the result of CNN interpolation method.
 
 ![CNN interpolation](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Figures/CNNErr.png?raw=true)<br>
-![Fx error](https://github.com/hust512/Tensor-Super-Resolution-Model/blob/master/SR/Result/FxErr.png?raw=true)<br>
